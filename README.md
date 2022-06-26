@@ -10,6 +10,9 @@ Or you might have researched some good websites for your Chemistry exam preparat
 
 So presenting before you a must-have Chrome extension: SEAMLESS STUDY! 😎
 
+![seamless-study](https://github.com/Seamless-Study/Seamless-Study-repo/blob/main/screenshots/ss1.png)
+
+
 ## Features:
 
 ---
@@ -19,6 +22,9 @@ So presenting before you a must-have Chrome extension: SEAMLESS STUDY! 😎
 3. Option to either close all the tabs after saving or to keep them open (in case you need to review them once).
 4. Option to name the sessions to avoid confusion
 5. Restore sessions multiple times or delete them after reading
+
+![seamless-study](https://github.com/Seamless-Study/Seamless-Study-repo/blob/main/screenshots/ss3.png)
+![seamless-study](https://github.com/Seamless-Study/Seamless-Study-repo/blob/main/screenshots/ss2.png)
 
 ## Tech Stack Used:
 
@@ -36,3 +42,6 @@ So presenting before you a must-have Chrome extension: SEAMLESS STUDY! 😎
 2. Open chrome and go to chrome://extensions/ and turn on Developer mode
 3. Click on "Load unpacked" and load the cloned repository
 4. The extension will be now available on chrome
+
+![seamless-study](https://github.com/Seamless-Study/Seamless-Study-repo/blob/main/screenshots/extension.png)
+
